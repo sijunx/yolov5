@@ -74,6 +74,8 @@ Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/
 git clone https://github.com/ultralytics/yolov5  # clone
 cd yolov5
 pip install -r requirements.txt  # install
+# by zard   
+pip install -i https://pypi.doubanio.com/simple --trusted-host pypi.doubanio.com -r requirements.txt
 ```
 
 </details>
